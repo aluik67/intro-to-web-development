@@ -1,7 +1,5 @@
-/* Removes unwanted styling from the page */
-*,
-*::before,
-*::after {
+before,
+after {
   box-sizing: border-box;
   padding: 26px 60px;
   display: flex;
@@ -12,4 +10,4 @@
   justify-content: space-between;
 }
 
-/* Write your code below this */
+
