@@ -1,10 +1,10 @@
-<nav class="navbar">
-  <div class="navbar-logo">
-    <img src="./images/logo.png" width="300" />
-  </div>
-  <ul class="navbar-items">
-    <li>About Me</li>
-    <li>Journey</li>
-    <li>Goals</li>
-  </ul>
-</nav>mm
+<div class="hero">
+  <h1>
+    Hello! <br />
+    I'm UKUYEMUYE Usama
+  </h1>
+  <p>A web developer</p>
+  <a href="ukuyemuyeusam@gmail.com">
+    <button>Contact Me</button>
+  </a>
+</div>
